@@ -8,4 +8,4 @@ git branches
 - `git log --oneline`: see where you are
 
 - `git push origin b1`: pushes the b1 branch to the remote
-| - similar command for pulling the branch from the remote
+- `git pull origin b1`: pulls the b1 branch to the local repository
